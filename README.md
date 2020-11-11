@@ -1,2 +1,2 @@
-# COVIDMap
-Code for an interactive map of COVID cases and testing over time in US
+# Interactive Map of cases of COVID-19 in the U.S. Overtime. 
+All cases are organized by state/territory and are presented in per million rate 
